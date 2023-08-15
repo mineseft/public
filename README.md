@@ -1,2 +1,2 @@
 # Mineseft
-Mineseft Releases
+Mineseft
